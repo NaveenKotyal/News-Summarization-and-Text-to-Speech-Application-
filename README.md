@@ -33,6 +33,6 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
-Application_lInk = https://huggingface.co/spaces/NaveenKotyal/Summarization
+Application_link = https://huggingface.co/spaces/NaveenKotyal/Summarization
 
 
